@@ -3,3 +3,5 @@
 Reference: https://arxiv.org/abs/2301.03598
 
 Still theoretical; not proven in practice. This repository was created hastily to make sure the algorithm gets open-sourced before someone tries to copyright it.
+
+TODO: Replace the ZIP with just the Swift script and some instructions to setup the Xcode project.
